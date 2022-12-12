@@ -20,7 +20,7 @@
 
 ##### Exercise 2.3
 
-1. ![截屏2022-12-02 18.11.33](/Users/zq2lii/Library/Application Support/typora-user-images/截屏2022-12-02 18.11.33.png)
+1. ![截屏2022-12-02 18.11.33](/Users/zq2lii/Desktop/截屏2022-12-02 18.11.33.png)
 
 As the picture shown above, there's a race condition.
 
